@@ -1,0 +1,149 @@
+﻿@*@{
+        ViewBag.Title = "";
+    }*@
+
+<section class="parallax" id="name">
+    <div class="picandname">
+        <img class="clearfix" id="mypic" src="~/Images/Me.jpg" />
+        <img id="nameheader" src="~/Images/blue&whitelogo.png" />
+    </div>
+</section>
+<section class="parallax" id="about">
+    <img id="aboutlogo" src="~/Images/raagfinallogo.png" />
+    <div class="ptext">
+        <p>
+            Hello! My name is Raag Shah, and I am a full-stack developer from Chicago, IL.  I studied at the University of Illinois at Chicago and graduated in 2015. I am skilled in numerous technologies such as HTML5, CSS3, JavaScript, and C# to name a few. I also love working with Photoshop and Illustrator!
+        </p>
+        <p>
+            Outside of work, you will probably find me dancing, hanging out with loved ones, reading, or surfing the web! I love to keep up with the latest in tech, and learn new things as often as I can. Keep scrolling for some more about me!
+        </p>
+    </div>
+    <div id="btnDownload">
+        <a href="https://drive.google.com/file/d/0B6TphGxtzbZgOGNCZngzbTZIdzA/view?usp=sharing" target="_blank" id="linkDownload"> <span id="textDownload">DOWNLOAD RESUME</span></a>
+    </div>
+</section>
+
+<section class="parallax" id="skills">
+    <header>
+        <h1 id="skillsscroll">Skills</h1>
+    </header>
+
+    <div class="skillscontainer">
+
+        <h2>FrontEnd</h2>
+        <div class="skillbox htmlslide">
+            <span><img class="skillslogo" src="~/Images/Skills Logos/html5-original.png" /></span>
+            @*<p>HTML5</p>*@
+        </div>
+        <div class="skillbox cssslide">
+            <span><img class="skillslogo " src="~/Images/Skills Logos/css3-original.png" /></span>
+            @*<p>CSS3</p>*@
+        </div>
+        <div class="skillbox jsslide">
+            <span><img class="skillslogo" src="~/Images/Skills Logos/javascript-original.png" /></span>
+            @*<p>JavaScript</p>*@
+        </div>
+        <h2>BackEnd</h2>
+        <div class="skillbox csslide">
+            <span><img class="skillslogo" src="~/Images/Skills Logos/csharp-original.png" /></span>
+            @*<p>C#</p>*@
+        </div>
+        <h2>Tools</h2>
+        <div class="skillbox vsslide">
+            <span> <img class="skillslogo" src="~/Images/Skills Logos/VS.png" /></span>
+            @*<p>Visual Studio</p>*@
+        </div>
+        <div class="skillbox sqlslide">
+            <span><img class="skillslogo" src="~/Images/Skills Logos/SQL.png" /></span>
+            @*<p>SQL Server MS</p>*@
+        </div>
+
+
+        <h2>Softwares</h2>
+        <div class="skillbox psslide">
+            <span><img class="skillslogo" src="~/Images/Skills Logos/photoshop-line.png" /></span>
+            @*<p>Photoshop</p>*@
+        </div>
+        <div class="skillbox lrslide">
+            <span><img class="skillslogo" src="~/Images/Skills Logos/lightroom.png" /></span>
+            @*<p>Lightroom</p>*@
+        </div>
+    </div>
+</section>
+<section @*class="parallax"*@ id="experience">
+    <header></header>
+    <div class="ptext">
+        @*<img src="~/Images/ATI Logo.jpg" />
+
+            <img src="~/Images/Coding Temple.png" />
+
+            <img src="~/Images/HMSI.jpg" />*@
+        <table class="exptable" cellpadding="30">
+            @*<tr>
+                    <th>ATI Physical Therapy</th>
+                    <td>Application Developer</td>
+                    <td>May 2016- Current</td>
+                    <td>
+                        •	Develop and modify ATI's Insync application using ASP.NET Web Forms, C#, and SQL server<br />
+                        •	Incorporated grid views, validators, sorting/paging methods, and fields to generate a user friendly interface<br />
+                        •	Developed logic on C# to gather and read data from database through the use of stored procedures<br />
+                        •	Design and modify procedures in our SQL database to reflect current data and functionality of our applications by utilizing joins and unions to populate data from numerous tables<br />
+                        •	Attend weekly Application Development team meetings to discuss progress and future goals
+                    </td>
+                </tr>
+                <tr>
+                    <th>Coding Temple</th>
+                    <td>Full Stack Developer</td>
+                    <td>January 2016-May 2016</td>
+                    <td>
+                        E-commerce Application:<br />
+                        •	Built an e-commerce website from the front-end to the back-end<br />
+                        •	Designed the project wireframe and layout<br />
+                        •	Involved in UI design and development using ASP.NET MVC, HTML5, CSS3, JavaScript, Angular JS<br />
+                        •	Designed and created the database and wrote stored procedures to access the products for my website through the application<br />
+                        •	Utilized bootstrap to create responsive and quick web design for all devices and browsers<br />
+                        •	Used a factory service to consistently communicate within controllers created in the API<br />
+                        •	Created a Web API to allow my website to access information stored in my database<br />
+                        •	Used CORS to allow cross domain access between API and MVC application<br />
+                        •	Implemented LINQ queries to give access to my SQL database for CRUD functionality<br />
+                        •	Utilized browser development tools to track layout issues and debug JavaScript content
+                    </td>
+                </tr>
+                <tr>
+                    <th>Home Mortgage Solutions</th>
+                    <td>Residential Mortgage Loan Originator</td>
+                    <td>January 2016-Current</td>
+                    <td>-Assist a client in determining the proper loan program, completing the loan application, and gathering the necessary paperwork to get an approval</td>
+                </tr>*@
+
+        </table>
+    </div>
+</section>
+
+@*<iframe id="gmap" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2962.831139120626!2d-87.85721238418992!3d42.046801179209176!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fb7e29e5b4d1b%3A0xabd94cf7675a7db2!2sChurch+St+%26+Dee+Rd%2C+Des+Plaines%2C+IL+60016!5e0!3m2!1sen!2sus!4v1479676038746" width="800" height="400" frameborder="1" style="border:0" allowfullscreen></iframe>*@
+
+<section class="parallax" id="contact">
+    <div id="contactdata">
+        <header>
+            <h1>Contact</h1>
+        </header>
+        <div id="contactform">
+            <form method="POST" action="http://formspree.io/gshah921@gmail.com">
+                <div id="feedbackboxes">
+                    <input id="nametxt" type="text" class="feedback" name="Name" placeholder="Full Name" />
+                    <input id="email" type="email" class="feedback" name="email" placeholder="Email" />
+                    <textarea id="message" cols="46" rows="5" maxlength="200" type="text" class="feedback" name="Message" placeholder="Message"></textarea>
+                    <button id="submitbtn" type="submit" style="vertical-align:middle"><span>Send</span></button>
+                    <input type="hidden" name="_next" value="//site.io/thanks.html" />
+                </div>
+            </form>
+        </div>
+        <div id="socialmedia">
+            <a href="https://www.linkedin.com/in/raagshah" target="_blank"><img class="smicon" src="~/Images/Social Media/Linkedin.png" /></a>
+            <a href="https://github.com/gshah921" target="_blank"><img class="smicon" src="~/Images/Social Media/Github-Icon.png" /></a>
+            <a href="https://www.instagram.com/gshah921/" target="_blank"><img class="smicon" src="~/Images/Social Media/Instagram-Icon.png" /></a>
+            <a href="https://www.facebook.com/rshah921" target="_blank"><img class="smicon" src="~/Images/Social Media/facebook-Icon.png" /></a>
+        </div>
+        </>
+    </div>
+</section>

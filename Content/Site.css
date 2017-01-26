@@ -1,0 +1,585 @@
+﻿body {
+    /*padding: 0;*/
+    position: relative;
+    z-index: 0;
+}
+
+* {
+    /*box-sizing: border-box;*/
+}
+
+h1 {
+    text-align: center;
+    font-family: '','Agency FB', 'Times New Roman';
+    padding-top: 40px;
+    font-size: 50pt;
+    text-decoration: underline;
+    color: white;
+}
+
+.ptext p {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 75%;
+    font-size: 12pt;
+    margin: 40px auto;
+}
+
+#nameheader {
+    height: 400px;
+    width: 900px;
+    display: block;
+    margin: 0 auto;
+}
+
+.picandname {
+    margin-top: 80px;
+}
+
+.container {
+    max-width: 100%;
+    padding: 0;
+}
+
+.nav li {
+    /*float: left;*/
+}
+
+.nav a {
+    /*display: block;*/
+    text-align: center;
+    width: 120px;
+}
+
+.navbar-nav {
+    font-size: 11pt;
+    width: 100%;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    font-family: 'Agency FB', 'Times New Roman';
+    color: white;
+}
+
+.navbar-inverse .navbar-nav > li > .sectionlink:hover {
+    color: #008aff;
+    border-bottom: 1px solid #008aff;
+    transition: .5s;
+}
+
+.navbar-inverse .navbar-nav > li > a:active {
+    font-size: 14pt;
+}
+
+
+.navbar-fixed-top {
+    border-width: 0;
+    background-color: transparent;
+    box-shadow: 0.00px 4.00px 27px 0px rgba(45,45,45,0.15);
+    height: 50px;
+}
+
+.navbar-inverse .navbar-toggle .icon-bar {
+    background-color: deepskyblue;
+}
+
+#mypic {
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+    display: block;
+    margin: 0 auto;
+    box-shadow: 10px 8px 50px black;
+}
+
+#logo {
+    width: 30px;
+    height: 35px;
+}
+
+
+
+#logolink {
+    height: 50px;
+    padding-top: 5px;
+    opacity: .6;
+    transition-duration: .3s;
+}
+
+    #logolink:hover {
+        opacity: 1.0;
+        background-color: none;
+    }
+
+#homelink {
+    color: #008aff;
+}
+
+    #homelink:hover {
+        color: white;
+        border-bottom: 1px solid white;
+    }
+
+/*tr {
+    font-size: 14pt;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}*/
+
+.parallax {
+    background-color: #a3bbd8;
+    float: left;
+    clear: none;
+    width: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    margin: 0 auto;
+}
+
+
+#name {
+    background-image: url('../Images/Background/aboutPS.jpg');
+    min-height: 1000px;
+}
+
+
+
+#about {
+    background-color: black;
+    color: white;
+    width: 600px;
+    height: 500px;
+    /*margin: 0 auto;*/
+    position: absolute;
+    top: 750px;
+    left: 32%;
+    border-radius: 5%;
+    /*opacity: .75;*/
+    box-shadow: 5px 5px 50px black;
+}
+
+#aboutlogo {
+    display: block;
+    margin: 40px auto;
+    height: 45px;
+    width: 40px;
+}
+
+
+#btnDownload {
+    border: solid 1px #008aff;
+    border-radius: 50px;
+    background-color: #008aff;
+    height: 35px;
+    width: 175px;
+    margin: 50px auto;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+    #btnDownload:hover {
+        background-color: white;
+        transition: .7s;
+    }
+
+#textDownload:hover {
+    transition: .7s;
+    color: #008aff;
+}
+
+#textDownload {
+    display: inline-block;
+    padding: 8px 25px;
+    color: white;
+    font-size: 10pt;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#skills {
+    /*background-image: url('../Images/Background/skillsPS.jpg');*/
+    background-color: #3d4e6c;
+    min-height: 1000px;
+    padding-top: 250px;
+}
+
+.skillscontainer {
+    margin: 0 55px;
+    padding: 5px;
+}
+
+    .skillscontainer h2 {
+        color: white;
+        margin-bottom: 10px;
+        margin-left: 15px;
+        font-size: 18pt;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+
+.skillbox {
+    border: .5px solid #ccc;
+    width: 250px;
+    height: 60px;
+    margin: 0 15px 30px 15px;
+    /*position: relative;*/
+    display: inline-block;
+    border-radius: 15px;
+    box-shadow: 0 8px 16px 5px rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    transition: all 0.5s;
+}
+
+/*HTML SLIDE*/
+.htmlslide span {
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+
+    .htmlslide span:after {
+        content: 'HTML5';
+        position: absolute;
+        opacity: 0;
+        top: 18px;
+        right: 0;
+        transition: 0.5s;
+    }
+
+.htmlslide:hover span {
+    padding-right: 75px;
+}
+
+    .htmlslide:hover span:after {
+        opacity: 1;
+        right: 0;
+    }
+/*CSS SLIDE*/
+.cssslide span {
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+
+    .cssslide span:after {
+        content: 'CSS3';
+        position: absolute;
+        opacity: 0;
+        top: 18px;
+        right: 0;
+        transition: 0.5s;
+    }
+
+.cssslide:hover span {
+    padding-right: 75px;
+}
+
+    .cssslide:hover span:after {
+        opacity: 1;
+        right: 0;
+    }
+
+/*JAVASCRIPT SLIDE*/
+
+.jsslide span {
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+
+    .jsslide span:after {
+        content: 'JAVASCRIPT';
+        position: absolute;
+        opacity: 0;
+        top: 18px;
+        right: 0;
+        transition: 0.5s;
+    }
+
+.jsslide:hover span {
+    padding-right: 95px;
+}
+
+    .jsslide:hover span:after {
+        opacity: 1;
+        right: 0;
+    }
+
+/*CSHARP SLIDE*/
+.csslide span {
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+
+    .csslide span:after {
+        content: 'CSHARP';
+        position: absolute;
+        opacity: 0;
+        top: 18px;
+        right: 0;
+        transition: 0.5s;
+    }
+
+.csslide:hover span {
+    padding-right: 75px;
+}
+
+    .csslide:hover span:after {
+        opacity: 1;
+        right: 0;
+    }
+/*VISUAL STUDIO SLIDE*/
+.vsslide span {
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+
+    .vsslide span:after {
+        content: 'VISUAL STUDIO';
+        position: absolute;
+        opacity: 0;
+        top: 18px;
+        right: 0;
+        transition: 0.5s;
+    }
+
+.vsslide:hover span {
+    padding-right: 105px;
+}
+
+    .vsslide:hover span:after {
+        opacity: 1;
+        right: 0;
+    }
+/*SQL SLIDE*/
+.sqlslide span {
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+
+    .sqlslide span:after {
+        content: 'SSMS';
+        position: absolute;
+        opacity: 0;
+        top: 18px;
+        right: 0;
+        transition: 0.5s;
+    }
+
+.sqlslide:hover span {
+    padding-right: 75px;
+}
+
+    .sqlslide:hover span:after {
+        opacity: 1;
+        right: 0;
+    }
+/*PHOTOSHOP SLIDE*/
+.psslide span {
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+
+    .psslide span:after {
+        content: 'PHOTOSHOP';
+        position: absolute;
+        opacity: 0;
+        top: 18px;
+        right: 0;
+        transition: 0.5s;
+    }
+
+.psslide:hover span {
+    padding-right: 95px;
+}
+
+    .psslide:hover span:after {
+        opacity: 1;
+        right: 0;
+    }
+/*LIGHTROOM SLIDE*/
+.lrslide span {
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+
+    .lrslide span:after {
+        content: 'LIGHTROOM';
+        position: absolute;
+        opacity: 0;
+        top: 18px;
+        right: 0;
+        transition: 0.5s;
+    }
+
+.lrslide:hover span {
+    padding-right: 95px;
+}
+
+    .lrslide:hover span:after {
+        opacity: 1;
+        right: 0;
+    }
+
+.skillbox:hover {
+    border: 1px solid deepskyblue;
+    background-color: black;
+    transition: .5s;
+}
+
+
+.skillslogo {
+    margin: 3px 0;
+}
+
+
+#experience {
+    min-height: 700px;
+}
+
+#contact {
+    position: relative;
+    min-height: 600px;
+    /*background-image: url('../Images/Background/contact1.jpg');*/
+    background-image: url('../Images/Background/rpda3uykjwm-wil-stewart.jpg');
+}
+
+#contactdata {
+    width: 50%;
+    position: relative;
+    margin: 0 auto;
+}
+
+#contactform {
+    margin: 40px auto;
+    width: 390px;
+    height: 370px;
+    opacity: .9;
+    background-color: rgba(12, 38, 61, 0.68);
+    border-radius: 15px;
+}
+
+    #contactform input {
+        border: none;
+        padding-left: 30px;
+        font-size: 10pt;
+        resize: none;
+    }
+
+.feedback {
+    color: #3c3c3c;
+    font-family: Helvetica, Arial, sans-serif;
+    /*font-size: 10px;*/
+    line-height: 18px;
+    padding: 13px 0 13px 15px;
+    margin: 15px 0 10px 5px;
+    box-sizing: border-box;
+    background-color: #ebe7e7;
+}
+
+    .feedback:focus {
+        /*border: 30px solid #3498db;*/
+        color: #3498db;
+    }
+
+    .feedback:hover{
+        background-color:white;
+    }
+
+#feedbackboxes {
+    padding: 40px 0;
+    margin: 0 30px;
+}
+
+#nametxt {
+    background-image: url(http://rexkirby.com/kirbyandson/images/name.svg);
+    background-size: 20px 20px;
+    background-position: 5px 10px;
+    background-repeat: no-repeat;
+    width: 155px;
+}
+
+#email {
+    background-image: url(http://rexkirby.com/kirbyandson/images/email.svg);
+    background-size: 20px 20px;
+    background-position: 5px 10px;
+    background-repeat: no-repeat;
+    width: 155px;
+}
+
+
+#message {
+    resize: none;
+    padding-left: 30px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    border: none;
+    width: 320px;
+    background-image: url(http://rexkirby.com/kirbyandson/images/comment.svg);
+    background-size: 20px 20px;
+    background-position: 5px 10px;
+    background-repeat: no-repeat;
+}
+
+#submitbtn {
+    background-color: #008aff;
+    border: none;
+    color: white;
+    padding: 8px 50px;
+    margin: 20px 0;
+    font-size: 16px;
+    width: 100%;
+    border-radius: 15px;
+    outline: none;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    transition: all 0.5s;
+    opacity: .85;
+}
+
+    #submitbtn span {
+        cursor: pointer;
+        display: inline-block;
+        position: relative;
+        transition: 0.5s;
+    }
+
+        #submitbtn span:after {
+            content: '»';
+            position: absolute;
+            opacity: 0;
+            top: 0;
+            right: -20px;
+            transition: 0.5s;
+        }
+
+    #submitbtn:hover span {
+        padding-right: 25px;
+    }
+
+        #submitbtn:hover span:after {
+            opacity: 1;
+            right: 0;
+        }
+
+:-ms-input-placeholder {
+    color: gray;
+}
+
+#socialmedia {
+    margin: 0 auto;
+    padding-left: 60px;
+    padding-bottom: 15px;
+    width: 400px;
+}
+
+.smicon {
+    margin-right: 25px;
+    opacity: .8;
+}
+
+    .smicon:hover {
+        opacity: 1;
+    }

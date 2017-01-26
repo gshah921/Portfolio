@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Raag Shah's Portfolio</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    <link href="~/Content/Media.css" rel="stylesheet" />
+    <div class="navbar transparent navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li class="navlink">
+                        <a id="logolink" href="/ "><img id="logo" src="~/Images/raagfinallogo.png" /></a>
+                    </li>
+                    <li class="navlink">
+                        <a class="sectionlink active" id="homelink" href="#name"><b>HOME</b></a>
+                    </li>
+                    <li class="navlink">
+                        <a class="sectionlink" id="aboutbtn" href="#about"><b>ABOUT ME</b></a>
+                    </li>
+                    <li class="navlink">
+                        <a class="sectionlink" id="skillsbtn" href="#skills"><B>SKILLS</B></a>
+                    </li>
+                    @*<li class="navlink">
+                        <a class="sectionlink" id="experiencebtn" href="#experience"><b>EXPERIENCE</b></a>
+                    </li>*@
+                    <li class="navlink">
+                        <a class="sectionlink" id="contactbtn" href="#contact"><b>CONTACT</b></a>
+                    </li>
+                    @*<li class="navlink"><a href="#projects">PROJECTS</a></li>*@
+                </ul>
+
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+
+        <footer class="">
+
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+
+    <script src="~/JavaScript/portfolio.js"></script>
+</body>
+</html>

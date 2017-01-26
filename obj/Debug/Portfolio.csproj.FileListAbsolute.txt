@@ -1,0 +1,138 @@
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\roslyn\csc.exe
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\roslyn\System.Collections.Immutable.dll
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\roslyn\vbc.exe
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\roslyn\VBCSCompiler.exe
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\roslyn\VBCSCompiler.exe.config
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\Portfolio.dll.config
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\Portfolio.dll
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\Portfolio.pdb
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\Antlr3.Runtime.dll
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\EntityFramework.dll
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\EntityFramework.SqlServer.dll
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\Microsoft.Owin.dll
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\Microsoft.Owin.Security.dll
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\Microsoft.Owin.Security.Google.dll
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\Microsoft.Web.Infrastructure.dll
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\Newtonsoft.Json.dll
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\Owin.dll
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\System.Web.Helpers.dll
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\System.Web.Mvc.dll
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\System.Web.Optimization.dll
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\System.Web.Razor.dll
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\System.Web.WebPages.Deployment.dll
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\System.Web.WebPages.dll
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\System.Web.WebPages.Razor.dll
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\WebGrease.dll
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\System.Web.Helpers.xml
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\System.Web.Mvc.xml
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\System.Web.Optimization.xml
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\System.Web.Razor.xml
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\System.Web.WebPages.xml
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\System.Web.WebPages.Deployment.xml
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\System.Web.WebPages.Razor.xml
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\Antlr3.Runtime.pdb
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\Newtonsoft.Json.xml
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\EntityFramework.xml
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\EntityFramework.SqlServer.xml
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\Microsoft.Owin.xml
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\Microsoft.Owin.Security.xml
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\Microsoft.Owin.Security.Google.xml
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\obj\Debug\Portfolio.csprojResolveAssemblyReference.cache
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\obj\Debug\Portfolio.dll
+c:\users\raag.shah\documents\visual studio 2015\Projects\Portfolio\Portfolio\obj\Debug\Portfolio.pdb
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\roslyn\csc.exe
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\roslyn\vbc.exe
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\roslyn\VBCSCompiler.exe
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\Portfolio.dll.config
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\Portfolio.dll
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\Portfolio.pdb
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\Antlr3.Runtime.dll
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\EntityFramework.dll
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\EntityFramework.SqlServer.dll
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\Microsoft.Owin.dll
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\Microsoft.Owin.Security.dll
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\Newtonsoft.Json.dll
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\Owin.dll
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\System.Web.Helpers.dll
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\System.Web.Mvc.dll
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\System.Web.Optimization.dll
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\System.Web.Razor.dll
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\System.Web.WebPages.dll
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\System.Web.WebPages.Razor.dll
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\WebGrease.dll
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\System.Web.Helpers.xml
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\System.Web.Mvc.xml
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\System.Web.Optimization.xml
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\System.Web.Razor.xml
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\System.Web.WebPages.xml
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\System.Web.WebPages.Razor.xml
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\Antlr3.Runtime.pdb
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\Newtonsoft.Json.xml
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\EntityFramework.xml
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\EntityFramework.SqlServer.xml
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\Microsoft.Owin.xml
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\Microsoft.Owin.Security.xml
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\obj\Debug\Portfolio.csprojResolveAssemblyReference.cache
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\obj\Debug\Portfolio.dll
+C:\Users\gshah\Downloads\Portfolio (1)\Portfolio\Portfolio\obj\Debug\Portfolio.pdb
